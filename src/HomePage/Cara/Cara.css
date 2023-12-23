@@ -1,0 +1,10 @@
+.myCara {
+    width: 50vw;
+    margin: auto;
+    padding-bottom: 2%;
+    /* max-height: 30%;  */
+}
+
+.myFlippedSvg{
+    margin-top: -40%;
+}

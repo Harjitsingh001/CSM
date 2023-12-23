@@ -1,0 +1,29 @@
+#specialOfferMiniText {
+    color: white;
+    margin-top: -12px;  
+    font-size: 15px;
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 0.7px;
+    word-spacing: 0.7px;
+    margin-bottom: -2px;
+}
+.myMovingSvg{
+    margin-bottom: -20%;
+    /* margin-top: 70%; */
+}
+
+#mainDivSpO {
+    background-color: rgb(11, 43, 102);
+}
+
+#SpecialOfferText {
+    margin-top: -1vh;
+    font-family: 'Josefin Sans', sans-serif;
+    /* border: 5px solid; */
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 600;
+}
